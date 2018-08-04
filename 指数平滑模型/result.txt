@@ -1,0 +1,17 @@
+203
+flavor1 38
+flavor2 51
+flavor4 22
+flavor5 37
+flavor8 55
+
+High-Performance 3
+High-Performance-1 flavor8 24
+High-Performance-2 flavor8 24
+High-Performance-3 flavor4 14 flavor5 27 flavor8 7
+
+General 3
+General-1 flavor1 8 flavor2 12 flavor4 8 flavor5 10
+General-2 flavor1 23 flavor2 33
+General-3 flavor1 7 flavor2 6
+
